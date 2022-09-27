@@ -36,6 +36,18 @@
 *.xquery linguist-detectable=true
 *.xquery linguist-documentation=false
 *.xquery linguist-language=XQuery
+*.xq linguist-detectable=true
+*.xq linguist-documentation=false
+*.xq linguist-language=XQuery
+*.xql linguist-detectable=true
+*.xql linguist-documentation=false
+*.xql linguist-language=XQuery
+*.xqm linguist-detectable=true
+*.xqm linguist-documentation=false
+*.xqm linguist-language=XQuery
+*.xqy linguist-detectable=true
+*.xqy linguist-documentation=false
+*.xqy linguist-language=XQuery
 # Less stylesheet file
 *.less linguist-detectable=true
 *.less linguist-documentation=false
@@ -169,6 +181,6 @@
 
 # File info
 # File type: gitattributes file (*.gitattributes)
-# File version: 5 (2022, Monday, September 26th at 4:08 pm PST)
-# Line count (including blank lines and compiler line): 175
+# File version: 6 (2022, Monday, September 26th at 10:02 pm PST)
+# Line count (including blank lines and compiler line): 187
 # End of script
